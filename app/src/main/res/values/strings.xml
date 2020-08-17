@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Share App</string>
+    <string name="btn_show_toast">Show Toast</string>
+    <string name="txt_enter">Enter the Message</string>
+    <string name="btn_navigate">Navigate to Next acitivity</string>
+    <string name="btn_share_others">Share to Other apps</string>
+    <string name="btn_sample">Sample to Card View and Recycle View</string>
+
+    <string name="click_button">Button was Clicked</string>
+</resources>
